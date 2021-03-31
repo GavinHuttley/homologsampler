@@ -5,11 +5,11 @@ import warnings
 from collections import Counter
 
 import click
-from scitrack import CachingLogger
-
 from cogent3 import (DNA, load_table, make_aligned_seqs, make_table,
                      make_unaligned_seqs)
 from ensembldb3 import Compara, Genome, HostAccount, Species
+from scitrack import CachingLogger
+
 from homologsampler.util import (abspath, display_available_dbs,
                                  get_chrom_names, load_coord_names,
                                  missing_species_names, species_names_from_csv)

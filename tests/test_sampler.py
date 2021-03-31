@@ -1,6 +1,6 @@
 from click.testing import CliRunner
-
 from cogent3 import make_table
+
 from homologsampler import cli
 
 

@@ -1,7 +1,6 @@
 import os
 
 import sqlalchemy as sql
-
 from cogent3 import make_table
 from cogent3.util.misc import get_merged_overlapping_coords
 from ensembldb3 import Species
