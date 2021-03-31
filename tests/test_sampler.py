@@ -3,6 +3,15 @@ from cogent3 import make_table
 
 from homologsampler import cli
 
+__author__ = "Gavin Huttley"
+__copyright__ = "Copyright 2021-date, Gavin Huttley"
+__credits__ = ["Gavin Huttley"]
+__license__ = "BSD"
+__version__ = "2021.04.01"
+__maintainer__ = "Gavin Huttley"
+__email__ = "Gavin.Huttley@anu.edu.au"
+__status__ = "Development"
+
 
 def _parse_db_display(output, columns):
     """finds the table display and accumulates the content"""
