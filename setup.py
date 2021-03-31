@@ -5,7 +5,7 @@ import sys
 from setuptools import find_packages, setup
 
 __author__ = "Gavin Huttley"
-__copyright__ = "Copyright 2019, Gavin Huttley"
+__copyright__ = "Copyright 2021-date, Gavin Huttley"
 __credits__ = ["Gavin Huttley"]
 __license__ = "BSD"
 __version__ = "0.11"

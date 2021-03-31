@@ -15,7 +15,7 @@ from homologsampler.util import (abspath, display_available_dbs,
                                  missing_species_names, species_names_from_csv)
 
 __author__ = "Gavin Huttley"
-__copyright__ = "Copyright 2019, Gavin Huttley"
+__copyright__ = "Copyright 2021-date, Gavin Huttley"
 __credits__ = ["Gavin Huttley"]
 __license__ = "BSD"
 __version__ = "0.11"
