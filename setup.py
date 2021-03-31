@@ -8,7 +8,7 @@ __author__ = "Gavin Huttley"
 __copyright__ = "Copyright 2021-date, Gavin Huttley"
 __credits__ = ["Gavin Huttley"]
 __license__ = "BSD"
-__version__ = "0.11"
+__version__ = "2021.04.01"
 __maintainer__ = "Gavin Huttley"
 __email__ = "Gavin.Huttley@anu.edu.au"
 __status__ = "Development"
@@ -38,7 +38,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/x-rst",
     platforms=["any"],
-    license=["GPL"],
+    license=["BSD-3"],
     keywords=["science", "bioinformatics", "genetics", "evolution"],
     classifiers=[
         "Development Status :: 3 - Alpha",
